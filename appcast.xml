@@ -3,11 +3,11 @@
   <channel>
     <title>NotchPost</title>
     <item>
-      <title>NotchPost 0.23.0</title>
-      <sparkle:version>23</sparkle:version>
-      <sparkle:shortVersionString>0.23.0</sparkle:shortVersionString>
+      <title>NotchPost 0.24.0</title>
+      <sparkle:version>24</sparkle:version>
+      <sparkle:shortVersionString>0.24.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/ItsSickRanchez/notchpost-dist/releases/download/v0.23.0/NotchPost-0.23.0.dmg" type="application/octet-stream" sparkle:edSignature="9AEEclNFimh52V2nu99Ai8YSyY7ezRyCMT/6lCPagyLOsehjWme+/6KE6Yc7+1bm53BlsIHk0ll+N8o4vi7+AQ==" length="1672744" />
+      <enclosure url="https://github.com/ItsSickRanchez/notchpost-dist/releases/download/v0.24.0/NotchPost-0.24.0.dmg" type="application/octet-stream" sparkle:edSignature="HfRruN1VzxxoKhxysh2i5pldItHr5bSpiRNCNnLzXHAOKzDtblqvY65mBHVWXgAqgRf7AMEn/EvBcW1J6qBwAQ==" length="1682801" />
     </item>
   </channel>
 </rss>
