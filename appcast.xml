@@ -3,13 +3,25 @@
     <channel>
         <title>NotchPost</title>
         <item>
+            <title>0.29.0</title>
+            <pubDate>Wed, 29 Jul 2026 14:46:01 +0200</pubDate>
+            <sparkle:version>29</sparkle:version>
+            <sparkle:shortVersionString>0.29.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/ItsSickRanchez/notchpost-dist/releases/download/v0.29.0/NotchPost-0.29.0.dmg" length="1978557" type="application/octet-stream" sparkle:edSignature="rnl1qwhA4/DtRU0F6Bp3ScU/2wGCqM8icDuYLMfHiEqvu7LxHPV4CRe3Txs52+EsxzUI6JI4CHQgm35RLDs+Ag=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/ItsSickRanchez/notchpost-dist/releases/download/v0.29.0/NotchPost29-28.delta" sparkle:deltaFrom="28" length="86738" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RPYWGomOvh8pf7KDQqeYR/f0fm0SAFHUjcQUXZcljdnsfE8b6xMOJ8q90+hRvR+BHsNSw1pgcJ1WtqRJgB6+Bg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.28.0</title>
             <pubDate>Mon, 27 Jul 2026 14:26:57 +0200</pubDate>
             <sparkle:version>28</sparkle:version>
             <sparkle:shortVersionString>0.28.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/ItsSickRanchez/notchpost-dist/releases/download/v0.28.0/NotchPost-0.28.0.dmg" length="1971317" type="application/octet-stream" sparkle:edSignature="Cn+mlrqDF5t/og1coRkHhq1PUrVFTRHvnL/tFpxIpkgRTvqn+wAFHHtUEvk2SDnGFB0sWXeD4wOVVTj0/O4+Bg=="/>
+            <enclosure url="https://github.com/ItsSickRanchez/notchpost-dist/releases/download/v0.29.0/NotchPost-0.28.0.dmg" length="1971317" type="application/octet-stream" sparkle:edSignature="Cn+mlrqDF5t/og1coRkHhq1PUrVFTRHvnL/tFpxIpkgRTvqn+wAFHHtUEvk2SDnGFB0sWXeD4wOVVTj0/O4+Bg=="/>
         </item>
     </channel>
 </rss>
