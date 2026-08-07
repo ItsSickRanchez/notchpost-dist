@@ -3,13 +3,13 @@
     <channel>
         <title>NotchPost</title>
         <item>
-            <title>0.35.0</title>
-            <pubDate>Thu, 06 Aug 2026 21:33:14 +0200</pubDate>
-            <sparkle:version>35</sparkle:version>
-            <sparkle:shortVersionString>0.35.0</sparkle:shortVersionString>
+            <title>0.36.0</title>
+            <pubDate>Fri, 07 Aug 2026 14:16:23 +0200</pubDate>
+            <sparkle:version>36</sparkle:version>
+            <sparkle:shortVersionString>0.36.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/ItsSickRanchez/notchpost-dist/releases/download/v0.35.0/NotchPost-0.35.0.dmg" length="2015431" type="application/octet-stream" sparkle:edSignature="hlt1YJBUPSG0sfSAdXLwdLzsilB3e464Hn//aAhStzZ/o3T46o2TGdxzNKkFQxPLaoUYFPA5ceK5OUovJECvBw=="/>
+            <enclosure url="https://github.com/ItsSickRanchez/notchpost-dist/releases/download/v0.36.0/NotchPost-0.36.0.dmg" length="1998337" type="application/octet-stream" sparkle:edSignature="XkMuaua4qaYPilUoYOc7mr/ySRwjDAFtzkNh029vLTJ+K7ERQu6UQlYNPhvowyiCuWXqHom75Yo85NP2WvcvBg=="/>
         </item>
     </channel>
 </rss>
